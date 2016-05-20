@@ -1,7 +1,7 @@
 #!/bin/bash
 
-if [ -d ~/web_django/ ]; then
-    mv ~/web_django/ ~/web
+if [ -d ~/django_mysql/ ]; then
+    mv ~/django_mysql/ ~/web
 else
    echo "no path"
 fi
